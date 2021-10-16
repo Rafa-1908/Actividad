@@ -1,13 +1,16 @@
-/*Esto es un comentario*/
-
-.modBloque {
-    border: 3px solid;
-    border-color: blue;
-    border-radius: 5px;
-    border-style: solid;
-}
-
-.mrTexto {
-    margin-right: 200px;
-    margin-top: 50px;
-}
+    /*Esto es un comentario*/
+    
+    .modBloque {
+        /*border: 3px solid;
+        border-color: rgb(16, 16, 17);
+        border-radius: 5px;
+        border-style: solid;*/
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    }
+    
+    .mrTexto {
+        margin: 2%;
+        margin-top: 50px;
+        border: solid green;
+        border-radius: 5px;
+    }
