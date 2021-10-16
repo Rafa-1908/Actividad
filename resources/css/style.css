@@ -1,1 +1,13 @@
 /*Esto es un comentario*/
+
+.modBloque {
+    border: 3px solid;
+    border-color: blue;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.mrTexto {
+    margin-right: 200px;
+    margin-top: 50px;
+}
